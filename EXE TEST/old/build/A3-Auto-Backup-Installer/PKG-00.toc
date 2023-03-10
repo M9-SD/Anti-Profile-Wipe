@@ -1,0 +1,51 @@
+('C:\\Users\\M9-SD\\Documents\\Arma 3 - Scripts\\Anti-Profile-Wipe\\EXE '
+ 'TEST\\build\\A3-Auto-Backup-Installer\\A3-Auto-Backup-Installer.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\M9-SD\\Documents\\Arma 3 - Scripts\\Anti-Profile-Wipe\\EXE '
+   'TEST\\build\\A3-Auto-Backup-Installer\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\M9-SD\\Documents\\Arma 3 - Scripts\\Anti-Profile-Wipe\\EXE '
+   'TEST\\build\\A3-Auto-Backup-Installer\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\M9-SD\\Documents\\Arma 3 - Scripts\\Anti-Profile-Wipe\\EXE '
+   'TEST\\build\\A3-Auto-Backup-Installer\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\M9-SD\\Documents\\Arma 3 - Scripts\\Anti-Profile-Wipe\\EXE '
+   'TEST\\build\\A3-Auto-Backup-Installer\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\M9-SD\\Documents\\Arma 3 - Scripts\\Anti-Profile-Wipe\\EXE '
+   'TEST\\build\\A3-Auto-Backup-Installer\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\M9-SD\\Documents\\Arma 3 - Scripts\\Anti-Profile-Wipe\\EXE '
+   'TEST\\build\\A3-Auto-Backup-Installer\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\M9-SD\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\M9-SD\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('A3-Auto-Backup-Installer',
+   'C:\\Users\\M9-SD\\Documents\\Arma 3 - Scripts\\Anti-Profile-Wipe\\EXE '
+   'TEST\\A3-Auto-Backup-Installer.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
